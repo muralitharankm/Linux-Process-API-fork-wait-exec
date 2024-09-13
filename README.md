@@ -60,7 +60,7 @@ int main(void)
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
-``c
+```c
 #include <stdio.h>
 #include<stdlib.h>
 int main(){ 
