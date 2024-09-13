@@ -44,21 +44,6 @@ int main(void)
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 
 
@@ -94,17 +79,6 @@ int main(){
     
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 
 
@@ -140,30 +114,6 @@ printf("Running ps with execlp. Now with path specified\n");
         printf("Done.\n");
         exit(0);}
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 
 
